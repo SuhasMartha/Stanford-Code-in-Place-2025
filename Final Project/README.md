@@ -4,6 +4,8 @@ Welcome to **TypeRacer+**, a fun and engaging console-based typing game designed
 
 ![TypeRacer+](https://github.com/user-attachments/assets/bf05fb3c-34e7-45a9-a2d3-c9a73f1eba50)
 
+[Project Link ↗](https://codeinplace.stanford.edu/cip5/share/483N2451wTNDT9s1jZz7)
+
 ---
 
 ## 🚀 Features
