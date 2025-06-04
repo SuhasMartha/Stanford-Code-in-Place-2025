@@ -2,8 +2,6 @@
 
 <p align="center"><img src="https://codeinplace.stanford.edu/stanford.png" alt="Stanford Logo" /></p>
 
-Learn content from Stanford's flagship course CS106A, online for free, with the support from thousands of teachers.
-
 Code in Place is a free introductory programming course using the Python language, based on material from the first half of Stanford University's established intro course, CS106A.It is one of the most popular courses at Stanford University, taken by almost 1,600 students every year. It has been developed over the last 30 years by an amazing team, including Nick Parlante, Eric Roberts and more. The course teaches the fundamentals of computer programming using the widely-used Python programming language. This course is for everyone from humanists, social scientists, to hardcore engineers.
 
 
