@@ -15,9 +15,9 @@ This repository is a structured archive of:
 📁 Repository Structure
 
 Week 1	[Control Flow with Karel	Welcome Karel	Karel](https://github.com/SuhasMartha/Stanford-Code-in-Place-2025/tree/main/Week%201%3A%20Welcome)<br>
-Week 2	[The Art of Coding	Puzzle Karel	Karel](https://github.com/SuhasMartha/Stanford-Code-in-Place-2025/tree/main/Week%201%3A%20Welcome)<br>
-Week 3	[Console Programs	Sandcastles	Console](https://github.com/SuhasMartha/Stanford-Code-in-Place-2025/tree/main/Week%201%3A%20Welcome)<br>
-Week 4	[Understanding Variables	Khansole Academy	Console](http://github.com/SuhasMartha/Stanford-Code-in-Place-2025/tree/main/Week%204%3A%20Python%20Control%20Flow)<br>
+Week 2	[The Art of Coding	Puzzle Karel	Karel](https://github.com/SuhasMartha/Stanford-Code-in-Place-2025/tree/main/Week%202%3A%20Stepwise%20Refinement)<br>
+Week 3	[Console Programs	Sandcastles	Console](https://github.com/SuhasMartha/Stanford-Code-in-Place-2025/tree/main/Week%203%3A%20Intro%20to%20Python)<br>
+Week 4	[Understanding Variables	Khansole Academy	Console](https://github.com/SuhasMartha/Stanford-Code-in-Place-2025/tree/main/Week%204%3A%20Python%20Control%20Flow)<br>
 Week 5	[Graphics	Random Art	Graphics](https://github.com/SuhasMartha/Stanford-Code-in-Place-2025/tree/main/Week%205%3A%20Graphics)<br>
 Week 6	[Lists + Dictionaries	World's Hardest Game	Graphics](https://github.com/SuhasMartha/Stanford-Code-in-Place-2025/tree/main/Week%206%3A%20Data)<br>
 [Beyond Code in Place](https://github.com/SuhasMartha/Stanford-Code-in-Place-2025/tree/main/Extra%20Content%20Beyond%20Code%20in%20Place)<br>
@@ -41,5 +41,5 @@ TypeRacer+ is a console-based typing game that measures speed and accuracy — w
 - Platform: Web-based console provided by Stanford Code in Place
 
 📬 Connect with Me <br>
-[GitHub](github.com/SuhasMartha)
-[LinkedIn](linkedin.com/in/suhasmartha)
+[GitHub](https://github.com/SuhasMartha)
+[LinkedIn](https://www.linkedin.com/in/suhas-martha/)
