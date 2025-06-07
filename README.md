@@ -28,6 +28,8 @@ TypeRacer+ is a console-based typing game that measures speed and accuracy — w
 
 📌 View [Final Project](https://github.com/SuhasMartha/Stanford-Code-in-Place-2025/tree/main/Final%20Project)
 
+👨🏻‍🎓 View [Certificate of Completion](https://codeinplace.stanford.edu/cip5/certificate/fdr11h)
+
 🧠 What I Learned
 - Writing clean Python code using loops, functions, and conditionals
 - Algorithmic thinking and decomposition with Karel
